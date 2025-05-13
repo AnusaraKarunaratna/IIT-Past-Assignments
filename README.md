@@ -17,7 +17,7 @@ Each level contains folders organized by modules, and each module may include:
 To clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/IIT-Past-Assignments.git
+git clone https://github.com/AnusaraKarunaratna/IIT-Past-Assignments.git
 
 
 
